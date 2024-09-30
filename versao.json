@@ -1,4 +1,5 @@
 {
-    "versao": "6.1",
-    "changelog": "Correções de bugs e melhorias de desempenho."
+    "versao": "6.0.0",
+    "changelog": "Nova funcionalidade adicionada para suporte a múltiplos idiomas.\nMelhorias na interface do usuário.\nCorreções de segurança importantes.",
+    "arquivo_remover": "2024-08-08.zip"
 }
